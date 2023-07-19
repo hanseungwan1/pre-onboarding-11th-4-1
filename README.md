@@ -1,5 +1,3 @@
-# 요구사항 페이지
-[https://lean-mahogany-686.notion.site/Week4-329b7b61fc5f4216bb89cde185fd0b83](https://clinicaltrialskorea.com/)
 # API
 https://github.com/walking-sunset/assignment-api
 # 배포주소
