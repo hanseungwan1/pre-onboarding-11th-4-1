@@ -1,0 +1,11 @@
+.containner {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-top: 6.25rem;
+  border-radius: 0.25rem;
+  align-items: center;
+}
+.main_title {
+  margin-bottom: 1.25rem;
+}

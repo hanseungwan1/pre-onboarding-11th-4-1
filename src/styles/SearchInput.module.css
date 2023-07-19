@@ -1,0 +1,28 @@
+.containner {
+  background-color: white;
+  max-width: 300px;
+  min-width: 200px;
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+}
+.icon {
+  font-size: 15px;
+  margin: 0 5px;
+  position: absolute;
+  top: 9px;
+}
+.search_input {
+  padding: 5px;
+  border: none;
+  margin-left: 30px;
+}
+.search_btn {
+  background-color: #357ae1;
+  border: none;
+  color: white;
+  padding: 10px;
+  font-size: 10px;
+  font-weight: bold;
+  cursor: pointer;
+}

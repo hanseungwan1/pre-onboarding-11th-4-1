@@ -1,0 +1,25 @@
+.text {
+  font-size: 5px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  text-align: left;
+}
+
+.result_containner {
+  display: flex;
+  margin: 7px 0;
+}
+
+.result_text {
+  font-size: small;
+  text-align: center;
+  width: 100%;
+  cursor: pointer;
+}
+.result_section {
+  display: flex;
+  margin: 7px 0;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+}
