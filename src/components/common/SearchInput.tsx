@@ -20,7 +20,7 @@ export default function SearchInput({
     if (searchData !== undefined) {
       const filteredData = searchData
         .filter((el) => {
-          if (inputValue === "") return;
+          if (inputValue === "") return false;
           return el.sickNm.startsWith(inputValue);
         })
         .slice(0, 8);
